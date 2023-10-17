@@ -13,9 +13,9 @@
 
    ⛔​ I did it myself [Secret!](https://edge.com/badpage)
 
-   💬 Ask me about **Android / Java / PHP / C++ / Kotlin / Java Script / Flutter**
+   💬 Ask me about **Android/Java/PHP/C++/Kotlin/Java Script/Flutter**
 
- 📫 How to reach me **oussama.berrejdem.mi@gmail.com**
+   📫 How to reach me **oussama.berrejdem.mi@gmail.com**
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">

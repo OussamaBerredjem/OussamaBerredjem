@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamaberredjem&label=Profile%20views&color=0e75b6&style=flat" alt="oussamaberredjem" /> </p>
 
-- 🔭 I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
+- 🧑‍🏫​ I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
 
-- 🌱 I’m currently learning **Flutter , Laravel , Ajax**
+- ​🧑‍💻​ I’m currently learning **Flutter , Laravel , Ajax**
 
-- 👯 I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
+- 🕵️ I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
 
-- 🤝 I did it myself [Secret!](https://edge.com/badpage)
+- ⛔​ I did it myself [Secret!](https://edge.com/badpage)
 
 - 💬 Ask me about **Android / Java / PHP / C++ / Kotlin / Java Script / Flutter**
 

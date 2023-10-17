@@ -13,7 +13,7 @@
 
    ⛔​ I did it myself [Secret!](https://edge.com/badpage)
 
-   💬 Ask me about <h6>Android/Java/PHP/C++/Kotlin/Java Script/Flutter</h6>
+   💬 Ask me about <p style="font-weight:bold">Android/Java/PHP/C++/Kotlin/Java Script/Flutter</p>
 
    📫 How to reach me **oussama.berrejdem.mi@gmail.com**
 

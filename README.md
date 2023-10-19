@@ -7,7 +7,7 @@
 
    🧑‍🏫​ I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
 
-   ​🧑‍💻​ I’m currently learning **Flutter , Laravel , Ajax**
+   ​🧑‍💻​ I’m currently learning **Flutter , Jetpack Compose , Ajax**
 
    🕵️ I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
 

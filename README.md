@@ -8,15 +8,15 @@
 
    🧑‍🏫​ I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
 
-   ​🧑‍💻​ I’m currently learning **Flutter , Jetpack Compose , Ajax**
+   ​🧑‍💻​ I’m currently learning **Flutter , Jetpack Compose , Node.js**
 
    🕵️ I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
 
    ⛔​ I did it myself [Secret!](https://edge.com/badpage)
 
-💬 Ask about **Android/Java/PHP/C++/Kotlin/Java Script/Flutter**
+💬 Ask about **Android/Java/PHP/C++/Kotlin/Java Script/Flutter/Node.js**
 
-   📫 How to reach me **oussama.berrejdem.mi@gmail.com**
+   📫 How to reach me **oussama.berredjem.mi@gmail.com**
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">

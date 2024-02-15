@@ -21,7 +21,7 @@
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oussamaber22976" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oussamaber22976" height="30" width="40" /></a>
-<a href="https://fb.com/edievd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edievd" height="30" width="40" /></a>
+<a href="https://fb.com/edievd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edievd" height="30" width="40" /></a><a href="https://www.linkedin.com/in/oussama-berredjem-65407929b/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="edievd" height="31" width="33" /></a>
 <a href="https://instagram.com/oussamaberredjemdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussamaberredjemdev" height="30" width="40" /></a>
 <a href="https://discord.gg/#3838" target="_blank"><img align="center" src="https://www.svgrepo.com/download/353655/discord-icon.svg" alt="#3838" height="30" width="40" /></a><a href="https://t.me/oussamaprotect" target="_blank"><img align="center" src="https://i.ibb.co/5L7J6PF/Telegram-icon-on-transparent-background-PNG-removebg-preview.png" alt="telegram" height="35" width="35" /></a>
 </p>

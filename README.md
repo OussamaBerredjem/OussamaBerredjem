@@ -1,20 +1,20 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center" style="color: red;">Hi&nbsp;<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='29' height='27'></a>, I'm Oussama Berredjem</h1>
 
-<h3 align="center">A Native Android Developer📱​</h3>
+<h3 align="center">A Mobile App Developer📱​</h3>
 <img align="right" style="display:flex" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
    🧑‍🏫​ I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
 
-   ​🧑‍💻​ I’m currently learning **Flutter , Jetpack Compose , Node.js**
+   ​🧑‍💻​ I’m currently learning **Flutter , Ajax , Node.js**
 
    🕵️ I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
 
    ⛔​ I did it myself [Secret!](https://edge.com/badpage)
 
-💬 Ask about **Android/Java/PHP/C++/Kotlin/Java Script/Flutter/Node.js**
+💬 Ask about **Android/Java/PHP/C++/C/Flutter/Node.js**
 
    📫 How to reach me **oussama.berredjem.mi@gmail.com**
 

@@ -8,7 +8,7 @@
 
    🧑‍🏫​ I’m currently working on [Q-chat](https://github.com/OussamaBerredjem/Q-Chat)
 
-   ​🧑‍💻​ I’m currently learning **Flutter , Ajax , Node.js**
+   ​🧑‍💻​ I’m currently learning **flutter , Ajax , Node.js**
 
    🕵️ I’m looking to collaborate on [ClickPay](https://www.clickpay.com/Home.aspx)
 
